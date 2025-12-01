@@ -15,4 +15,4 @@ The data of hackathon are available on this drive : https://drive.google.com/dri
 - `data/` : structure (data too large for GitHub, but everything is reproducible)
 
 
-Thanks to the organizers and the jury!
+Thanks to organizers and jury!
