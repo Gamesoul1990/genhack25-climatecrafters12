@@ -5,7 +5,7 @@
 ## Key Results
 - ERA5-Land underestimates the real UHI by **0.68 °C** on average (max 1.23 °C in Nice)
 - Error **directly linked to urbanization level** (r = -0.64, p < 10⁻¹⁰)
-- Random Forest model + NDVI + 5 variables → **MAE = 0.29 °C** → **-57% error** vs ERA5-Land
+- Random Forest model + NDVI + 5 variables : **MAE = 0.43 °C** ; **-37% error** vs ERA5-Land
 - Full explainability with SHAP
 
 ## Repository Content
